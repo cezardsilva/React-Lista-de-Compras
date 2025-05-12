@@ -2,9 +2,9 @@
 
 O React Hook useState é uma ferramenta poderosa para gerenciar o estado em seus aplicativos, tornando-os mais dinâmicos e responsivos.
 
-O useEffecté um React Hook que permite sincronizar um componente com um sistema externo.
+O useEffect é um React Hook que permite sincronizar um componente com um sistema externo.
 
-referências.: [useEfect](https://react.dev/reference/react/useEffect) [useState](https://react.dev/reference/react/useState)
+referências.: [useEffect](https://react.dev/reference/react/useEffect) [useState](https://react.dev/reference/react/useState)
 
 ## 🚀 Sobre o projeto
 
@@ -23,7 +23,7 @@ referências.: [useEfect](https://react.dev/reference/react/useEffect) [useState
 
 1. Clone este repositório:
    ```sh
-   git clone (https://github.com/cezardsilva/React-useState.git)
+   git clone (https://github.com/cezardsilva/React-Lista-de-Compras.git)
 
 2. No terminal execute:
    ```sh
